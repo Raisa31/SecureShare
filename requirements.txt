@@ -1,0 +1,10 @@
+numpy==1.24.3
+opencv-python==4.7.0.72
+Pillow==9.5.0
+pycryptodome==3.17
+pyseltongue==1.0.2
+pywatchman==1.4.1
+scipy==1.10.1
+six==1.16.0
+sklearn==0.0.post4
+utilitybelt==0.2.6
